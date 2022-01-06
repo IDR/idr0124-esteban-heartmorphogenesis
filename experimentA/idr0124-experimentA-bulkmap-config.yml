@@ -29,11 +29,15 @@ columns:
     clientname: Developmental Stage
     include: true
 
-  - name: Comment [Image File Comments]
-    clientname: Image File Comments
+  - name: Experimental Condition [Embryo Collection]
+    clientname: Embryo Collection
     include: true
 
   - name: Assay Name
+    include: true
+
+  - name: Comment [Image File Comments]
+    clientname: Image File Comments
     include: true
 
 
