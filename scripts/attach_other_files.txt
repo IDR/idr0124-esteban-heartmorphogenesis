@@ -1,0 +1,8 @@
+# Just a list of commands to run to attach the remaining files
+
+python /uod/idr/metadata/idr-utils/scripts/annotate/attach_file.py -m "application/x-tar" /uod/idr/filesets/idr0124-esteban-heartmorphogenesis/20211023-ftp/MeanShapeForEachGroup_MSG/MSGs_Myocardium.tar.xz Dataset:xxx
+python /uod/idr/metadata/idr-utils/scripts/annotate/attach_file.py -m "application/x-tar" /uod/idr/filesets/idr0124-esteban-heartmorphogenesis/20211023-ftp/MeanShapeForEachGroup_MSG_4D/MSGs_4D_Myocardium.tar.xz Dataset:xxx
+python /uod/idr/metadata/idr-utils/scripts/annotate/attach_file.py -m "application/x-tar" /uod/idr/filesets/idr0124-esteban-heartmorphogenesis/20211023-ftp/RSGs_4D/RSGs_4D_Myocardium.tar.xz Dataset:xxx
+python /uod/idr/metadata/idr-utils/scripts/annotate/attach_file.py -m "application/x-tar" /uod/idr/filesets/idr0124-esteban-heartmorphogenesis/20211023-ftp/RSGs_4D/RSGs_4D_Paraxial.tar.xz Dataset:xxx
+python /uod/idr/metadata/idr-utils/scripts/annotate/attach_file.py -m "application/x-tar" /uod/idr/filesets/idr0124-esteban-heartmorphogenesis/20211023-ftp/RSGs_4D/RSGs_4D_Somatic.tar.xz Dataset:xxx
+python /uod/idr/metadata/idr-utils/scripts/annotate/attach_file.py -m "application/x-tar" /uod/idr/filesets/idr0124-esteban-heartmorphogenesis/20211023-ftp/RSGs_4D/RSGs_4D_Splanchnic.tar.xz Dataset:xxx

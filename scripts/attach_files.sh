@@ -2,13 +2,19 @@
 
 projectId=$1
 
-for i in `cat /uod/idr/metadata/idr0124-esteban-heartmorphogenesis/scripts/segmented_files.txt`
+for i in `cat segmented_files.txt`
 do
-	filename=${i##*/}
-	imagename=${filename%%_*}
+	tmp=${i##*Collection/}
+	imagename=${tmp%%/*}
 	images=`python /uod/idr/metadata/idr-utils/scripts/annotate/find_images.py "${imagename}\.lif" Project:$projectId`
 	for image in $images
 	do
-		python /uod/idr/metadata/idr-utils/scripts/annotate/attach_file.py -m "image/nii" $i $image
+		if [ "$i" == "*.xz" ]
+		then
+			mt="application/x-tar"
+		else
+			mt="image/nii"
+		fi
+		python /uod/idr/metadata/idr-utils/scripts/annotate/attach_file.py -m $mt $i $image
 	done
 done
