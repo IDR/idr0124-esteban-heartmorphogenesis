@@ -1,0 +1,112 @@
+# this file should contain results information.  The first column should contain something that can be used to link the results to the assays file e.g. Experimental Condition [targeted protein],,
+Assay Name,Path,Processed file description
+Specimen E1,IsaacEstebanVarela/Collection/E1/SegImgs_E1.tar.xz,Segmentation images corresponding to the assay
+Specimen E1,IsaacEstebanVarela/Collection/E1/3Ds_E1.tar.xz,3D reconstruction of the segmentation images of the assay
+Specimen E2,IsaacEstebanVarela/Collection/E2/SegImgs_E2.tar.xz,Segmentation images corresponding to the assay
+Specimen E2,IsaacEstebanVarela/Collection/E2/3Ds_E2.tar.xz,3D reconstruction of the segmentation images of the assay
+Specimen E3,IsaacEstebanVarela/Collection/E3/SegImgs_E3.tar.xz,Segmentation images corresponding to the assay
+Specimen E3,IsaacEstebanVarela/Collection/E3/3Ds_E3.tar.xz,3D reconstruction of the segmentation images of the assay
+Specimen E4,IsaacEstebanVarela/Collection/E4/SegImgs_E4.tar.xz,Segmentation images corresponding to the assay
+Specimen E4,IsaacEstebanVarela/Collection/E4/3Ds_E4.tar.xz,3D reconstruction of the segmentation images of the assay
+Specimen E5,IsaacEstebanVarela/Collection/E5/SegImgs_E5.tar.xz,Segmentation images corresponding to the assay
+Specimen E5,IsaacEstebanVarela/Collection/E5/3Ds_E5.tar.xz,3D reconstruction of the segmentation images of the assay
+Specimen E6,IsaacEstebanVarela/Collection/E6/SegImgs_E6.tar.xz,Segmentation images corresponding to the assay
+Specimen E6,IsaacEstebanVarela/Collection/E6/3Ds_E6.tar.xz,3D reconstruction of the segmentation images of the assay
+Specimen E7,IsaacEstebanVarela/Collection/E7/SegImgs_E7.tar.xz,Segmentation images corresponding to the assay
+Specimen E7,IsaacEstebanVarela/Collection/E7/3Ds_E7.tar.xz,3D reconstruction of the segmentation images of the assay
+Specimen E8,IsaacEstebanVarela/Collection/E8/SegImgs_E8.tar.xz,Segmentation images corresponding to the assay
+Specimen E8,IsaacEstebanVarela/Collection/E8/3Ds_E8.tar.xz,3D reconstruction of the segmentation images of the assay
+Specimen E9,IsaacEstebanVarela/Collection/E9/SegImgs_E9.tar.xz,Segmentation images corresponding to the assay
+Specimen E9,IsaacEstebanVarela/Collection/E9/3Ds_E9.tar.xz,3D reconstruction of the segmentation images of the assay
+Specimen E10,IsaacEstebanVarela/Collection/E10/SegImgs_E10.tar.xz,Segmentation images corresponding to the assay
+Specimen E10,IsaacEstebanVarela/Collection/E10/3Ds_E10.tar.xz,3D reconstruction of the segmentation images of the assay
+Specimen E11,IsaacEstebanVarela/Collection/E11/SegImgs_E11.tar.xz,Segmentation images corresponding to the assay
+Specimen E11,IsaacEstebanVarela/Collection/E11/3Ds_E11.tar.xz,3D reconstruction of the segmentation images of the assay
+Specimen E12,IsaacEstebanVarela/Collection/E12/SegImgs_E12.tar.xz,Segmentation images corresponding to the assay
+Specimen E12,IsaacEstebanVarela/Collection/E12/3Ds_E12.tar.xz,3D reconstruction of the segmentation images of the assay
+Specimen E13,IsaacEstebanVarela/Collection/E13/SegImgs_E13.tar.xz,Segmentation images corresponding to the assay
+Specimen E13,IsaacEstebanVarela/Collection/E13/3Ds_E13.tar.xz,3D reconstruction of the segmentation images of the assay
+Specimen E14,IsaacEstebanVarela/Collection/E14/SegImgs_E14.tar.xz,Segmentation images corresponding to the assay
+Specimen E14,IsaacEstebanVarela/Collection/E14/3Ds_E14.tar.xz,3D reconstruction of the segmentation images of the assay
+Specimen E15,IsaacEstebanVarela/Collection/E15/SegImgs_E15.tar.xz,Segmentation images corresponding to the assay
+Specimen E15,IsaacEstebanVarela/Collection/E15/3Ds_E15.tar.xz,3D reconstruction of the segmentation images of the assay
+Specimen E16,IsaacEstebanVarela/Collection/E16/SegImgs_E16.tar.xz,Segmentation images corresponding to the assay
+Specimen E16,IsaacEstebanVarela/Collection/E16/3Ds_E16.tar.xz,3D reconstruction of the segmentation images of the assay
+Specimen E17,IsaacEstebanVarela/Collection/E17/SegImgs_E17.tar.xz,Segmentation images corresponding to the assay
+Specimen E17,IsaacEstebanVarela/Collection/E17/3Ds_E17.tar.xz,3D reconstruction of the segmentation images of the assay
+Specimen E18,IsaacEstebanVarela/Collection/E18/SegImgs_E18.tar.xz,Segmentation images corresponding to the assay
+Specimen E18,IsaacEstebanVarela/Collection/E18/3Ds_E18.tar.xz,3D reconstruction of the segmentation images of the assay
+Specimen E19,IsaacEstebanVarela/Collection/E19/SegImgs_E19.tar.xz,Segmentation images corresponding to the assay
+Specimen E19,IsaacEstebanVarela/Collection/E19/3Ds_E19.tar.xz,3D reconstruction of the segmentation images of the assay
+Specimen E20,IsaacEstebanVarela/Collection/E20/SegImgs_E20.tar.xz,Segmentation images corresponding to the assay
+Specimen E20,IsaacEstebanVarela/Collection/E20/3Ds_E20.tar.xz,3D reconstruction of the segmentation images of the assay
+Specimen E21,IsaacEstebanVarela/Collection/E21/SegImgs_E21.tar.xz,Segmentation images corresponding to the assay
+Specimen E21,IsaacEstebanVarela/Collection/E21/3Ds_E21.tar.xz,3D reconstruction of the segmentation images of the assay
+Specimen E22,IsaacEstebanVarela/Collection/E22/SegImgs_E22.tar.xz,Segmentation images corresponding to the assay
+Specimen E22,IsaacEstebanVarela/Collection/E22/3Ds_E22.tar.xz,3D reconstruction of the segmentation images of the assay
+Specimen E23,IsaacEstebanVarela/Collection/E23/SegImgs_E23.tar.xz,Segmentation images corresponding to the assay
+Specimen E23,IsaacEstebanVarela/Collection/E23/3Ds_E23.tar.xz,3D reconstruction of the segmentation images of the assay
+Specimen E24,IsaacEstebanVarela/Collection/E24/SegImgs_E24.tar.xz,Segmentation images corresponding to the assay
+Specimen E24,IsaacEstebanVarela/Collection/E24/3Ds_E24.tar.xz,3D reconstruction of the segmentation images of the assay
+Specimen E25,IsaacEstebanVarela/Collection/E25/3Ds_E25.tar.xz,Segmentation images corresponding to the assay
+Specimen E25,IsaacEstebanVarela/Collection/E25/SegImgs_E25.tar.xz,3D reconstruction of the segmentation images of the assay
+Specimen E26,IsaacEstebanVarela/Collection/E26/3Ds_E26.tar.xz,Segmentation images corresponding to the assay
+Specimen E26,IsaacEstebanVarela/Collection/E26/SegImgs_E26.tar.xz,3D reconstruction of the segmentation images of the assay
+Specimen E27,IsaacEstebanVarela/Collection/E27/3Ds_E27.tar.xz,Segmentation images corresponding to the assay
+Specimen E27,IsaacEstebanVarela/Collection/E27/SegImgs_E27.tar.xz,3D reconstruction of the segmentation images of the assay
+Specimen E28,IsaacEstebanVarela/Collection/E28/3Ds_E28.tar.xz,Segmentation images corresponding to the assay
+Specimen E28,IsaacEstebanVarela/Collection/E28/SegImgs_E28.tar.xz,3D reconstruction of the segmentation images of the assay
+Specimen E29,IsaacEstebanVarela/Collection/E29/3Ds_E29.tar.xz,Segmentation images corresponding to the assay
+Specimen E29,IsaacEstebanVarela/Collection/E29/SegImgs_E29.tar.xz,3D reconstruction of the segmentation images of the assay
+Specimen E30,IsaacEstebanVarela/Collection/E30/3Ds_E30.tar.xz,Segmentation images corresponding to the assay
+Specimen E30,IsaacEstebanVarela/Collection/E30/SegImgs_E30.tar.xz,3D reconstruction of the segmentation images of the assay
+Specimen E31,IsaacEstebanVarela/Collection/E31/SegImgs_E31.tar.xz,Segmentation images corresponding to the assay
+Specimen E31,IsaacEstebanVarela/Collection/E31/3Ds_E31.tar.xz,3D reconstruction of the segmentation images of the assay
+Specimen E32,IsaacEstebanVarela/Collection/E32/SegImgs_E32.tar.xz,Segmentation images corresponding to the assay
+Specimen E32,IsaacEstebanVarela/Collection/E32/3Ds_E32.tar.xz,3D reconstruction of the segmentation images of the assay
+Specimen E33,IsaacEstebanVarela/Collection/E33/SegImgs_E33.tar.xz,Segmentation images corresponding to the assay
+Specimen E33,IsaacEstebanVarela/Collection/E33/3Ds_E33.tar.xz,3D reconstruction of the segmentation images of the assay
+Specimen E34,IsaacEstebanVarela/Collection/E34/SegImgs_E34.tar.xz,Segmentation images corresponding to the assay
+Specimen E34,IsaacEstebanVarela/Collection/E34/3Ds_E34.tar.xz,3D reconstruction of the segmentation images of the assay
+Specimen E35,IsaacEstebanVarela/Collection/E35/SegImgs_E35.tar.xz,Segmentation images corresponding to the assay
+Specimen E35,IsaacEstebanVarela/Collection/E35/3Ds_E35.tar.xz,3D reconstruction of the segmentation images of the assay
+Specimen E36,IsaacEstebanVarela/Collection/E36/SegImgs_E36.tar.xz,Segmentation images corresponding to the assay
+Specimen E36,IsaacEstebanVarela/Collection/E36/3Ds_E36.tar.xz,3D reconstruction of the segmentation images of the assay
+Specimen E37,IsaacEstebanVarela/Collection/E37/SegImgs_E37.tar.xz,Segmentation images corresponding to the assay
+Specimen E37,IsaacEstebanVarela/Collection/E37/3Ds_E37.tar.xz,3D reconstruction of the segmentation images of the assay
+Specimen E38,IsaacEstebanVarela/Collection/E38/SegImgs_E38.tar.xz,Segmentation images corresponding to the assay
+Specimen E38,IsaacEstebanVarela/Collection/E38/3Ds_E38.tar.xz,3D reconstruction of the segmentation images of the assay
+Specimen E39,IsaacEstebanVarela/Collection/E39/SegImgs_E39.tar.xz,Segmentation images corresponding to the assay
+Specimen E39,IsaacEstebanVarela/Collection/E39/3Ds_E39.tar.xz,3D reconstruction of the segmentation images of the assay
+Specimen E40,IsaacEstebanVarela/Collection/E40/SegImgs_E40.tar.xz,Segmentation images corresponding to the assay
+Specimen E40,IsaacEstebanVarela/Collection/E40/3Ds_E40.tar.xz,3D reconstruction of the segmentation images of the assay
+Specimen E41,IsaacEstebanVarela/Collection/E41/SegImgs_E41.tar.xz,Segmentation images corresponding to the assay
+Specimen E41,IsaacEstebanVarela/Collection/E41/3Ds_E41.tar.xz,3D reconstruction of the segmentation images of the assay
+Specimen E42,IsaacEstebanVarela/Collection/E42/SegImgs_E42.tar.xz,Segmentation images corresponding to the assay
+Specimen E42,IsaacEstebanVarela/Collection/E42/3Ds_E42.tar.xz,3D reconstruction of the segmentation images of the assay
+Specimen E43,IsaacEstebanVarela/Collection/E43/SegImgs_E43.tar.xz,Segmentation images corresponding to the assay
+Specimen E43,IsaacEstebanVarela/Collection/E43/3Ds_E43.tar.xz,3D reconstruction of the segmentation images of the assay
+Specimen E44,IsaacEstebanVarela/Collection/E44/SegImgs_E44.tar.xz,Segmentation images corresponding to the assay
+Specimen E44,IsaacEstebanVarela/Collection/E44/3Ds_E44.tar.xz,3D reconstruction of the segmentation images of the assay
+Specimen E45,IsaacEstebanVarela/Collection/E45/SegImgs_E45.tar.xz,Segmentation images corresponding to the assay
+Specimen E45,IsaacEstebanVarela/Collection/E45/3Ds_E45.tar.xz,3D reconstruction of the segmentation images of the assay
+Specimen E46,IsaacEstebanVarela/Collection/E46/SegImgs_E46.tar.xz,Segmentation images corresponding to the assay
+Specimen E46,IsaacEstebanVarela/Collection/E46/3Ds_E46.tar.xz,3D reconstruction of the segmentation images of the assay
+Specimen E47,IsaacEstebanVarela/Collection/E47/SegImgs_E47.tar.xz,Segmentation images corresponding to the assay
+Specimen E47,IsaacEstebanVarela/Collection/E47/3Ds_E47.tar.xz,3D reconstruction of the segmentation images of the assay
+Specimen E48,IsaacEstebanVarela/Collection/E48/SegImgs_E48.tar.xz,Segmentation images corresponding to the assay
+Specimen E48,IsaacEstebanVarela/Collection/E48/3Ds_E48.tar.xz,3D reconstruction of the segmentation images of the assay
+Specimen E49,IsaacEstebanVarela/Collection/E49/SegImgs_E49.tar.xz,Segmentation images corresponding to the assay
+Specimen E49,IsaacEstebanVarela/Collection/E49/3Ds_E49.tar.xz,3D reconstruction of the segmentation images of the assay
+Specimen E50,IsaacEstebanVarela/Collection/E50/SegImgs_E50.tar.xz,Segmentation images corresponding to the assay
+Specimen E50,IsaacEstebanVarela/Collection/E50/3Ds_E50.tar.xz,3D reconstruction of the segmentation images of the assay
+Specimen E51,IsaacEstebanVarela/Collection/E51/SegImgs_E51.tar.xz,Segmentation images corresponding to the assay
+Specimen E51,IsaacEstebanVarela/Collection/E51/3Ds_E51.tar.xz,3D reconstruction of the segmentation images of the assay
+Specimen E52,IsaacEstebanVarela/Collection/E52/SegImgs_E52.tar.xz,Segmentation images corresponding to the assay
+Specimen E52,IsaacEstebanVarela/Collection/E52/3Ds_E52.tar.xz,3D reconstruction of the segmentation images of the assay
+All the assays,/MSGs/MSGs_Myocardium.tar.xz,Mean Staging Group shapes
+All the assays,/MSGs_4D/MSGs_4D_Myocardium.tar.xz,Dynamic model of the Mean Staging Group Shapes
+All the assays,/RSGs_4D/RSGs_4D_Myocardium.tar.xz,"Dynamic model of the myocardium shapes, of the Representative Shape for each Group"
+All the assays,/RSGs_4D/RSGs_4D_Splanchnic.tar.xz,"Dynamic model of the splanchnic shapes, of the Representative Shape for each Group"
+All the assays,/RSGs_4D/RSGs_4D_Somatic.tar.xz,"Dynamic model of the somatic shapes, of the Representative Shape for each Group"
+All the assays,/RSGs_4D/RSGs_4D_Paraxial.tar.xz,"Dynamic model of the paraxial shapes, of the Representative Shape for each Group"
