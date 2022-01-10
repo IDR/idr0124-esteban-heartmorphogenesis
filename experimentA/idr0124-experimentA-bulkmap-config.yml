@@ -39,10 +39,6 @@ columns:
   - name: Comment [Image File Comments]
     clientname: Image File Comments
     include: true
-    
-  - name: Channels
-    clientname: Channels
-    include: yes
 
 
   ######################################################################
