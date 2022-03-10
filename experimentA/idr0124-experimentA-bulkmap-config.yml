@@ -25,6 +25,14 @@ columns:
     clientname: Organism Part
     include: true
 
+  - name: Characteristics [Strain]
+    clientname: Strain
+    include: true
+
+  - name: Experimental Condition [Genotype]
+    clientname: Genotype
+    include: true
+
   - name: Characteristics [Developmental Stage]
     clientname: Developmental Stage
     include: true
@@ -52,16 +60,30 @@ columns:
           clientname: Organism
           include: true
 
+  - group:
+      namespace: openmicroscopy.org/mapr/phenotype
+      columns:
+      - name: Phenotype
+        clientname: Phenotype
+        include: yes
+      - name: Phenotype Term Name
+        clientname: Phenotype Term Name
+        include: yes
+      - name: Phenotype Term Accession
+        clientname: Phenotype Term Accession
+        include: yes
+      - name: Phenotype Term Accession
+        clientname: Phenotype Term Accession URL
+        clientvalue: https://www.ebi.ac.uk/ols/search?q={{ value|urlencode }}
+        include: yes
 
-# Advanced options (experimental)
+
 advanced:
-  # If a map-annotation is attached to a well also attach it to all images
-  # in the well
-  well_to_images: true
-
-  # TODO: Primary key config should be in a global config
   ignore_missing_primary_key: true
   primary_group_keys:
     - namespace: openmicroscopy.org/mapr/organism
       keys:
         - Organism
+    - namespace: openmicroscopy.org/mapr/phenotype
+      keys:
+      - Phenotype
