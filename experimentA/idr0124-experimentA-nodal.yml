@@ -1,0 +1,8 @@
+---
+channels:
+    1:
+        active: true
+        color: '808080'
+        label: cell nucleai
+greyscale: true
+version: 2
