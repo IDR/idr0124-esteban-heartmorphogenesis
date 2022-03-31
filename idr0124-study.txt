@@ -1,102 +1,104 @@
 # FILL IN AS MUCH INFORMATION AS YOU CAN.  HINTS HAVE BEEN PUT IN SOME FIELDS AFTER THE HASH # SYMBOL. REPLACE THE HINT WITH TEXT WHERE APPROPRIATE.
 # STUDY DESCRIPTION SECTION
-# Section with generic information about the study including title, description, publication details (if applicable) and contact details
-
-Comment[IDR Study Accession]	idr0124
-Study Title	Pseudo-dynamic analysis of heart tube formation in the mouse reveals strong regional variability and early left-right asymmetry
-Study Type	morphogenesis
-Study Type Term Source REF	NCIT	
-Study Type Term Accession	NCIT_C16879
-Study Description	We provide the first and complete atlas for morphometric analysis and visualization of heart tube morphogenesis, reporting morphological variability and early emergence of left-right asymmetry patterns.  
+# Section with generic information about the study including title, description, publication details (if applicable) and contact details				
+						
+Comment[IDR Study Accession]	idr0124					
+Study Title	Pseudo-dynamic analysis of heart tube formation in the mouse reveals strong regional variability and early left-right asymmetry					
+Study Type	morphogenesis					
+Study Type Term Source REF	NCIT					
+Study Type Term Accession	NCIT_C16879					
+Study Description	We provide the first and complete atlas for morphometric analysis and visualization of heart tube morphogenesis, reporting morphological variability and early emergence of left-right asymmetry patterns.  				
 Study Key Words	mouse embryo	heart tube	morphogenesis	morphometric staging	left-right asymmetry	atlas
-Study Organism	Mus musculus
-Study Organism Term Source REF	NCBITaxon
-Study Organism Term Accession	10090	
-Study Experiments Number	1
-Study External URL	
-Study BioImage Archive Accession
-Study Public Release Date	2022-01-17
-
-# Study Publication
-Study PubMed ID	
-Study Publication Title	Pseudo-dynamic analysis of heart tube formation in the mouse reveals strong regional variability and early left-right asymmetry
-Study Author List	Esteban I, Schmidt P, Temino S, Kobbelt L, Torres M
-Study PMC ID	
-Study DOI	
-
-# Study Contacts
-Study Person Last Name	Torres	Esteban
-Study Person First Name	Miguel	Isaac
-Study Person Email	mtorres@cnic.es	iesteban@cnic.es
-Study Person Address	Cardiovascular Development Program, Centro Nacional de Investigaciones Cardiovasculares (CNIC)	Cardiovascular Development Program, Centro Nacional de Investigaciones Cardiovasculares (CNIC)
-Study Person ORCID	0000-0003-0906-4767	0000-0003-3530-1850
-Study Person Roles	submitter	submitter
-
-# Study License and Data DOI
-Study License	CC BY 4.0
-Study License URL	https://creativecommons.org/licenses/by/4.0/
-Study Copyright	Esteban et al
-Study Data Publisher	University of Dundee
-Study Data DOI	https://doi.org/10.17867/10000174
-
-Term Source Name	NCBITaxon	EFO	CMPO	FBbi
-Term Source URI	http://purl.obolibrary.org/obo/	http://www.ebi.ac.uk/efo/	http://www.ebi.ac.uk/cmpo/	http://purl.obolibrary.org/obo/
-
-
-# EXPERIMENT SECTION
-# Experiment Section containing all information relative to each experiment in the study including materials used, protocols names and description, phenotype names and description. For multiple experiments this section should be repeated.  Copy and paste the whole section below and fill out for the next experiment
-
-Experiment Number	1
-Comment[IDR Experiment Name]	idr0124-esteban-heartmorphogenesis/experimentA
-Experiment Sample Type	tissue
-Experiment Description	Imaging of a temporally dense collection of mouse embryonic heart morphologies between E7.75 and E8.5.
-Experiment Size,5D Images: Average Image Dimension (XYZCT): 2048x2048x1000x3x1,Total Tb: 520GB
-Experiment Example Images	IsaacEstebanVarela/example.tif
-Experiment Imaging Method	array-scan confocal microscopy
-Experiment Imaging Method Term Source REF	Fbbi
-Experiment Imaging Method Term Accession	Fbbi_00000393
-Experiment Organism
-Experiment Organism Term Source REF	NCBITaxon
-Experiment Organism Term Accession
-Experiment Comments	
-
-# assay files
-Experiment Assay File	idr0124-experimentA-annotation
-Experiment Assay File Format	tab-delimited text
-Assay Experimental Conditions
-Assay Experimental Conditions Term Source REF	
-Assay Experimental Conditions Term Accession	
-Quality Control Description
-
-# Protocols
-Protocol Name	growth protocol	treatment protocol	image acquisition and feature extraction protocol	data analysis protocol	Embryo clearing
-Protocol Type	growth protocol	treatment protocol	image acquisition and feature extraction protocol	data analysis protocol	Embryo clearing
-Protocol Type Term Source REF	EFO	EFO
-Protocol Type Term Accession
-Protocol Description	Images where acquired using confocal microscopy and features extracted by segmented tissues of interest. Semi-automatic and fully automatic segmentation approaches. Imaging hardware: SP8 Leica confocal microscope and a HC PL Apo CS2 20 0.75 NA multi-inmersion lens corrected to glycerol immersion. Imaging software: Leica LAS X 3.5.2.18963,Embryos are cleared in CUBIC I to achieve tissue transparency.
-
-# Phenotypes
-Phenotype Name
-Phenotype Description
-Phenotype Score Type
-Phenotype Term Source REF	CMPO
-Phenotype Term Name
-Phenotype Term Accession
-
-
-# Feature Level Data Files (give individual file details unless there is one file per well)
-Feature Level Data File Name	
-Feature Level Data File Format	
-Feature Level Data File Description	
-Feature Level Data Column Name	
-Feature Level Data Column Description	
-
-#  Processed Data Files 
-Processed Data File Name	idr0124-experimentA-processed.txt
-Processed Data File Format	tab-delimited text
-Processed Data File Description	This files contains the segmentation images of every tissue and/or lumen, for every specimen, the 3D representation of every shape, and the 3D+t morphological description.
-Processed Data Column Name	Path where the processed file is stored	Processed file description
-Processed Data Column Type	Path where the processed file is stored	Data
-Processed Data Column Annotation Level
-Processed Data Column Description	Path where the processed file is stored	Description of the results contained in the file
-Processed Data Column Link To Assay File	
+Study Organism	Mus musculus					
+Study Organism Term Source REF	NCBITaxon					
+Study Organism Term Accession	10090					
+Study Experiments Number	1					
+Study External URL						
+Study BioImage Archive Accession						
+Study Public Release Date						
+						
+# Study Publication						
+Study PubMed ID						
+Study Publication Title	Pseudo-dynamic analysis of heart tube formation in the mouse reveals strong regional variability and early left-right asymmetry					
+Study Author List	Esteban I, Schmidt P, Temino S, Kobbelt L, Torres M	
+Study PMC ID						
+Study DOI						
+						
+# Study Contacts						
+Study Person Last Name	Torres	Esteban				
+Study Person First Name	Miguel	Isaac				
+Study Person Email	mtorres@cnic.es	iesteban@cnic.es				
+Study Person Address	Cardiovascular Development Program	 Centro Nacional de Investigaciones Cardiovasculares (CNIC)	Cardiovascular Development Program	 Centro Nacional de Investigaciones Cardiovasculares (CNIC)		
+Study Person ORCID	0000-0003-0906-4767	0000-0003-3530-1850				
+Study Person Roles	submitter	submitter				
+						
+# Study License and Data DOI						
+Study License	CC BY 4.0					
+Study License URL	https://creativecommons.org/licenses/by/4.0/					
+Study Copyright	Esteban et al					
+Study Data Publisher	University of Dundee					
+Study Data DOI	https://doi.org/10.17867/10000174					
+						
+Term Source Name	NCBITaxon	EFO	CMPO	FBbi		
+Term Source URI	http://purl.obolibrary.org/obo/	http://www.ebi.ac.uk/efo/	http://www.ebi.ac.uk/cmpo/	http://purl.obolibrary.org/obo/		
+						
+						
+# EXPERIMENT SECTION						
+# Experiment Section containing all information relative to each experiment in the study including materials used	 protocols names and description	 phenotype names and description. For multiple experiments this section should be repeated.  Copy and paste the whole section below and fill out for the next experiment				
+						
+Experiment Number	1					
+Comment[IDR Experiment Name]	idr0124-esteban-heartmorphogenesis/experimentA					
+Experiment Sample Type	tissue					
+Experiment Description	Imaging of a temporally dense collection of mouse embryonic heart morphologies between E7.75 and E8.5.					
+Experiment Size	5D Images: Average Image Dimension (XYZCT): 2048x2048x1000x3x1	960x960x500x1x1	Total Tb: 520GB	22GB			
+Experiment Example Images	IsaacEstebanVarela/example.tif	IsaacEstebanVarela/example2.tif				
+Experiment Imaging Method	array-scan confocal microscopy					
+Experiment Imaging Method Term Source REF	Fbbi					
+Experiment Imaging Method Term Accession	Fbbi_00000393					
+Experiment Organism						
+Experiment Organism Term Source REF	NCBITaxon					
+Experiment Organism Term Accession						
+Experiment Comments												
+						
+						
+# assay files						
+Experiment Assay File	idr0124-experimentA-annotation					
+Experiment Assay File Format	tab-delimited text					
+Assay Experimental Conditions						
+Assay Experimental Conditions Term Source REF						
+Assay Experimental Conditions Term Accession						
+Quality Control Description						
+						
+# Protocols						
+Protocol Name	growth protocol	treatment protocol	image acquisition and feature extraction protocol	data analysis protocol	Embryo clearing	
+Protocol Type	growth protocol	treatment protocol	image acquisition and feature extraction protocol	data analysis protocol	Embryo clearing	
+Protocol Type Term Source REF	EFO	EFO				
+Protocol Type Term Accession						
+Protocol Description	Images where acquired using confocal microscopy and features extracted by segmented tissues of interest. Semi-automatic and fully automatic segmentation approaches. Imaging hardware: SP8 Leica confocal microscope and a HC PL Apo CS2 20 0.75 NA multi-immersion lens corrected to glycerol immersion. Imaging software: Leica LAS X 3.5.2.18963	Embryos are cleared in CUBIC I to achieve tissue transparency.	Whole-mount Nodal mutants and their controls were fixed at E8.5 in 4% PFA and dehydrated in 100% methanol.	Embryos were then stained with Hoechst as a nuclear counterstain and transferred to R2 CUBIC clearing reagents.								
+						
+						
+# Phenotypes						
+Phenotype Name	Conditional Nodal mutants					
+Phenotype Description	randomized heart tube looping direction					
+Phenotype Score Type						
+Phenotype Term Source REF	MP					
+Phenotype Term Name	abnormal direction of heart looping					
+Phenotype Term Accession	MP_0004252					
+						
+						
+# Feature Level Data Files (give individual file details unless there is one file per well)						
+Feature Level Data File Name						
+Feature Level Data File Format						
+Feature Level Data File Description						
+Feature Level Data Column Name						
+Feature Level Data Column Description						
+						
+#  Processed Data Files 						
+Processed Data File Name	idr0124-experimentA-processed.txt					
+Processed Data File Format	tab-delimited text					
+Processed Data File Description	This files contains the segmentation images of every tissue and/or lumen	 for every specimen	 the 3D representation of every shape	 and the 3D+t morphological description.		
+Processed Data Column Name	Path where the processed file is stored	Processed file description				
+Processed Data Column Type	Path where the processed file is stored	Data				
+Processed Data Column Annotation Level						
+Processed Data Column Description	Path where the processed file is stored	Description of the results contained in the file				
+Processed Data Column Link To Assay File						
