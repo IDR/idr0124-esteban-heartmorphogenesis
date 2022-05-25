@@ -20,9 +20,9 @@ Study Public Release Date	2022-01-17
 # Study Publication						
 Study PubMed ID						
 Study Publication Title	Pseudo-dynamic analysis of heart tube formation in the mouse reveals strong regional variability and early left-right asymmetry					
-Study Author List	Esteban I, Schmidt P, Temino S, Kobbelt L, Torres M	
+Study Author List	Esteban I, Schmidt P, Desgrange A, Raiola M, Temino S, Meilhac SM, Kobbelt L, Torres M	
 Study PMC ID						
-Study DOI						
+Study DOI	https://doi.org/10.1038/s44161-022-00065-1						
 						
 # Study Contacts						
 Study Person Last Name	Torres	Esteban				
