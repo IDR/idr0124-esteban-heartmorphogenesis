@@ -72,9 +72,8 @@ columns:
       - name: Phenotype Term Accession
         clientname: Phenotype Term Accession
         include: yes
-      - name: Phenotype Term Accession
+      - name: Phenotype Term Accession URL
         clientname: Phenotype Term Accession URL
-        clientvalue: https://www.ebi.ac.uk/ols/search?q={{ value|urlencode }}
         include: yes
 
 
